@@ -1,0 +1,21 @@
+body header nav{
+    background-color: #2D3540;
+    
+}
+body header nav a{
+    margin-left: 180px;
+    width: 100%;
+    color: white;
+}
+main div h5{
+    margin-left: 100px;
+    width: 100%;
+    margin-top: 30PX;
+}
+main div p{
+    margin-left: 100px;
+    width: 100%;
+}
+main .carouselslide{
+    margin-left: 200px;
+}
